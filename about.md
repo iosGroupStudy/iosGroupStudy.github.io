@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
+title: About Myself
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- 전) [TADA](https://apps.apple.com/sg/app/tada-ride-hailing/id1412329684) iOS 앱 개발
+- 서울대학교 컴퓨터공학부 학사 휴학중
